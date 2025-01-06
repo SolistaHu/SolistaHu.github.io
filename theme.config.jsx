@@ -14,7 +14,7 @@ export default {
   darkMode: false,
   navs: [
     {
-      url: 'https://github.com/shuding/nextra',
+      url: 'https://https://solistahu.github.io',
       name: 'Nextra'
     }
   ]
