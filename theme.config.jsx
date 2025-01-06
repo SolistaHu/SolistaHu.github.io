@@ -14,7 +14,7 @@ export default {
   darkMode: false,
   navs: [
     {
-      url: 'https://https://solistahu.github.io',
+      url: 'https://solistahu.github.io',
       name: 'Nextra'
     }
   ]
